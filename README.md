@@ -4,7 +4,7 @@
 
 ==========================================
 
-![alt text](https://raw.githubusercontent.com/NYU-CS6313-SPRING2016/Group-11-Twitter-Verbal-Abuse/master/screenshotapp.png "Screenshot")
+![alt text]("Screenshot")
 
 **Files**:
 
