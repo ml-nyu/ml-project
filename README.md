@@ -1,14 +1,16 @@
 # Twitter Bot Detection
 
-#Contains project implementation of Machine Learning Project - Twitter Bot Detection
+# Contains project implementation of Machine Learning Project - Twitter Bot Detection
 
 ==========================================
 
 **Files**:
+bot_detection.ipynb Contains the code that classifies bot accounts
+Report.pdf Contains the details analysis of the project
 
 **Authors**: Girish Ganesh Prabhu ([fabssj4](https://github.com/fabssj4)) Rahul Ramesh ([rahulkalpsts107](https://github.com/rahulkalpsts107))
 
-##Description
+## Description
 This repository contains the Project files for the twitter bot detection.
 In this project we have used two approaches to identify bot
 accounts. 
@@ -23,4 +25,4 @@ accuracy of 91.67 percent.
 We also discussed improvements
 that can be made in the evaluation section.
 
-**Video**: Link (https://youtu.be/SGDFI06e2d8)
+**Video**: Link explaning the project (https://youtu.be/SGDFI06e2d8)
