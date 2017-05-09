@@ -1,6 +1,6 @@
 # Twitter Bot Detection
 
-# Contains project implementation for the Machine Learning Project (CS6923) under Professor Sandoval.
+# Contains project implementation for the Machine Learning Project (CS-6923) under Professor Sandoval.
 
 ==========================================
 
