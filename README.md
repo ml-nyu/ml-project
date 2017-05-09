@@ -4,16 +4,23 @@
 
 ==========================================
 
-![alt text]("Screenshot")
-
 **Files**:
-
 
 **Authors**: Girish Ganesh Prabhu ([fabssj4](https://github.com/fabssj4)) Rahul Ramesh ([rahulkalpsts107](https://github.com/rahulkalpsts107))
 
 ##Description
 This repository contains the Project files for the twitter bot detection.
+In this project we have used two approaches to identify bot
+accounts. 
+We first analyze features and identify those features
+that help get the best accuracy from the classifier. 
+We then discussed two algorithms Naive Bayes and Random Forest
+that will be used to identify these bot accounts using the
+features selected. 
+We also analyzed the performance of each
+classifier and found that random forest works well with an
+accuracy of 91.67 percent. 
+We also discussed improvements
+that can be made in the evaluation section.
 
-**Video**: 
-
-**Presentation**: [Write up](https://docs.google.com/presentation/d/1euxnMTu01wk8GmkBH2S2I1g7TNk9oR_JX22kIuGByU8/edit?ts=590f8332#slide=id.p4)
+**Video**: Link (https://youtu.be/SGDFI06e2d8)
